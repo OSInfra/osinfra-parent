@@ -1,0 +1,1 @@
+The parent pom of osinfra projects
