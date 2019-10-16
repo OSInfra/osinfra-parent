@@ -18,6 +18,13 @@
     </modules>
     <packaging>pom</packaging>
 
+    <scm>
+        <connection>scm:git:https://github.com/OSInfra/osinfra-gateway</connection>
+        <developerConnection>scm:git:git@github.com:OSInfra/osinfra-gateway.git</developerConnection>
+        <url>https://github.com/OSInfra/osinfra-gateway</url>
+        <tag>HEAD</tag>
+    </scm>
+
     <properties>
         <app.name>${project.artifactId}</app.name>
         <java.version>1.8</java.version>
