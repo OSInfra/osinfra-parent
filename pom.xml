@@ -9,7 +9,7 @@
 
     <groupId>com.github.osinfra</groupId>
     <artifactId>osinfra-parent</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1-SNAPSHOT</version>
     <modules>
         <module>osinfra-base-starter</module>
         <module>osinfra-bom</module>
@@ -17,10 +17,10 @@
     <packaging>pom</packaging>
 
     <scm>
-        <connection>scm:git:https://github.com/OSInfra/osinfra-gateway</connection>
-        <developerConnection>scm:git:git@github.com:OSInfra/osinfra-gateway.git</developerConnection>
-        <url>https://github.com/OSInfra/osinfra-gateway</url>
-        <tag>1.0.0</tag>
+        <connection>scm:git:https://github.com/OSInfra/osinfra-parent</connection>
+        <developerConnection>scm:git:git@github.com:OSInfra/osinfra-parent.git</developerConnection>
+        <url>https://github.com/OSInfra/osinfra-parent</url>
+        <tag>HEAD</tag>
     </scm>
 
     <properties>
