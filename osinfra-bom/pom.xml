@@ -3,11 +3,11 @@
     <parent>
         <artifactId>osinfra-parent</artifactId>
         <groupId>com.github.osinfra</groupId>
-        <version>1.0.2-SNAPSHOT</version>
+        <version>1.0.2</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
     <artifactId>osinfra-bom</artifactId>
-    <version>1.0.2-SNAPSHOT</version>
+    <version>1.0.2</version>
 
     <packaging>jar</packaging>
 
