@@ -13,6 +13,7 @@
 
     <properties>
         <spring-cloud-alibaba.version>0.2.1.RELEASE</spring-cloud-alibaba.version>
+        <spring-boot-swagger.version>1.9.0.RELEASE</spring-boot-swagger.version>
     </properties>
 
     <dependencies>
@@ -69,6 +70,12 @@
             <groupId>org.springframework.cloud</groupId>
             <artifactId>spring-cloud-starter-alibaba-nacos-discovery</artifactId>
             <version>${spring-cloud-alibaba.version}</version>
+        </dependency>
+
+        <dependency>
+            <groupId>com.spring4all</groupId>
+            <artifactId>swagger-spring-boot-starter</artifactId>
+            <version>${spring-boot-swagger.version}</version>
         </dependency>
 
         <dependency>
