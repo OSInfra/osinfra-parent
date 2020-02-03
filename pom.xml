@@ -9,7 +9,7 @@
 
     <groupId>com.github.osinfra</groupId>
     <artifactId>osinfra-parent</artifactId>
-    <version>1.0.2</version>
+    <version>1.0.3-SNAPSHOT</version>
     <modules>
         <module>osinfra-base-starter</module>
         <module>osinfra-bom</module>
