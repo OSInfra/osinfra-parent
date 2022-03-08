@@ -54,7 +54,7 @@
         <aliyun-sdk-oss.version>2.8.3</aliyun-sdk-oss.version>
         <aliyun-sdk-mns.version>1.1.8.4</aliyun-sdk-mns.version>
         <aliyun-openservices.version>1.2.3</aliyun-openservices.version>
-        <apache-poi.version>3.17</apache-poi.version>
+        <apache-poi.version>5.2.1</apache-poi.version>
         <zxing.version>3.3.3</zxing.version>
         <sharding-jdbc.version>1.5.1</sharding-jdbc.version>
         <sharding-jdbc2.version>2.0.3</sharding-jdbc2.version>
