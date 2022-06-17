@@ -44,7 +44,7 @@
         <commons-compress.version>1.19</commons-compress.version>
         <commons-httpclient.version>3.1</commons-httpclient.version>
         <druid.version>1.1.13</druid.version>
-        <fastjson.version>1.2.55</fastjson.version>
+        <fastjson.version>1.2.83</fastjson.version>
         <guava.version>27.0.1-jre</guava.version>
         <mybatis.version>3.5.0</mybatis.version>
         <mybatis-spring.version>2.0.0</mybatis-spring.version>
