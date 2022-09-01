@@ -63,7 +63,7 @@
         <dozer.version>5.5.1</dozer.version>
         <bcprov.version>1.58</bcprov.version>
         <quartz.version>2.3.0</quartz.version>
-        <jsoup.version>1.11.3</jsoup.version>
+        <jsoup.version>1.15.3</jsoup.version>
         <logback-ext-spring.version>0.1.5</logback-ext-spring.version>
         <redisson.version>3.10.1</redisson.version>
         <spongycastle.version>1.58.0.0</spongycastle.version>
